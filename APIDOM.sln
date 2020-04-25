@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIDOM", "APIDOM\APIDOM.csproj", "{497D9D31-6440-4758-A82F-92FA4A5DA822}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApartmentLib", "ApartmentLib\ApartmentLib.csproj", "{A1A685A3-4B8E-4865-8932-83FFE294B4DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{497D9D31-6440-4758-A82F-92FA4A5DA822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{497D9D31-6440-4758-A82F-92FA4A5DA822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{497D9D31-6440-4758-A82F-92FA4A5DA822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{497D9D31-6440-4758-A82F-92FA4A5DA822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1A685A3-4B8E-4865-8932-83FFE294B4DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1A685A3-4B8E-4865-8932-83FFE294B4DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1A685A3-4B8E-4865-8932-83FFE294B4DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1A685A3-4B8E-4865-8932-83FFE294B4DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C902DF21-42A4-4A60-8157-61BBD996380E}
+	EndGlobalSection
+EndGlobal
